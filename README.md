@@ -16,3 +16,7 @@ This project will include codes that can output the potential citations from the
 5. remove the redundant content.去掉重复的内容
 
 Hope can be helpful!希望能有用！
+
+**Possible error reporting 可能的报错**
+1. when you have '(', but do not have ')', or have ')', but do not have '('.
+2. Can not find citations like 'Year' + 'a', such as (Tan et al. 2021a). 
