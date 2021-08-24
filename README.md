@@ -18,5 +18,5 @@ This project will include codes that can output the potential citations from the
 Hope can be helpful!希望能有用！
 
 **Possible error reporting 可能的报错**
-1. when you have '(', but do not have ')', or have ')', but do not have '('.
-2. Can not find citations like 'Year' + 'a', such as (Tan et al. 2021a). 
+1. when you have '(', but do not have ')', or have ')', but do not have '('. 有前括号，但是没有后括号；或者有后括号忘了前括号
+2. Can not find citations like 'Year' + 'a', such as (Tan et al. 2021a). 发现不了年份加上字母的引用，比如(Tan et al. 2021a)
