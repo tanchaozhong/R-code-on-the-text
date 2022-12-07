@@ -2,7 +2,7 @@
 # During each review, I need to remove useless papers that already identified.
 
 
-setwd('D:\\PhD\\20210729 Urban stagnant water - general framwork\\Articles derived from systematic Review\\review Log')
+setwd('XXX')
 
 # #1. remove useless columns####
 # name.regional = '220924.Ecology.0h00.4962'
