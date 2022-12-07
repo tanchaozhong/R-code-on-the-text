@@ -1,4 +1,4 @@
-# Find-citations-from-the-paper-0.1-
+# Find-citations-from-the-paper
 When publish a paper, the citation apeared in the text need to apear in the reference list. However, such check is very time consuming, especially you have a relatively long paper.
 This project will include codes that can output the potential citations from the paper.
 当发表文章的时候，通常文献列表中的文献要和正文中出现的文献保持一致，但是一个一个去检查耗费时间，而且容易出错。这个代码能输出正文中可能的文献。
@@ -20,3 +20,9 @@ Hope can be helpful!希望能有用！
 **Possible error reporting 可能的报错**
 1. when you have '(', but do not have ')', or have ')', but do not have '('. 有前括号，但是没有后括号；或者有后括号忘了前括号
 2. Can not find citations like 'Year' + 'a', such as (Tan et al. 2021a). 发现不了年份加上字母的引用，比如(Tan et al. 2021a)
+
+
+# Screen the reference list
+When conducting a review, we derived reference list from the database based on keywords. Then we exame the list to determine whether the keywords are appropriate. 当我们写综述文章时，我们用关键词从数据库中提取大量文献，接着检验这些文献来确定 关键词是否合适。
+This process can be done serveral times. 这个过程可能重复很多次。
+To save some time, we can use the 'yes' (papers that previously determined useful for the review) and 'no' reference list (papers that previously determined unusful for the review) to screen the newly derived list. 为了节省时间，我们用 'yes'列表 (之间就已经验证可以囊括进综述的文章) 和 'no'列表 (之前就已经验证无法囊括仅综述的文章) 来筛选新得到的文章列表。
