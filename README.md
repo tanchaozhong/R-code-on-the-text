@@ -24,5 +24,9 @@ Hope can be helpful!希望能有用！
 
 # Screen the reference list
 When conducting a review, we derived reference list from the database based on keywords. Then we exame the list to determine whether the keywords are appropriate. 当我们写综述文章时，我们用关键词从数据库中提取大量文献，接着检验这些文献来确定 关键词是否合适。
+
+
 This process can be done serveral times. 这个过程可能重复很多次。
+
+
 To save some time, we can use the 'yes' (papers that previously determined useful for the review) and 'no' reference list (papers that previously determined unusful for the review) to screen the newly derived list. 为了节省时间，我们用 'yes'列表 (之间就已经验证可以囊括进综述的文章) 和 'no'列表 (之前就已经验证无法囊括仅综述的文章) 来筛选新得到的文章列表。
