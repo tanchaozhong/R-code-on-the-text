@@ -1,4 +1,4 @@
-# Find-citations-from-the-paper
+# Find citations from the manuscript
 When publish a paper, the citation apeared in the text need to apear in the reference list. However, such check is very time consuming, especially you have a relatively long paper.
 This project will include codes that can output the potential citations from the paper.
 当发表文章的时候，通常文献列表中的文献要和正文中出现的文献保持一致，但是一个一个去检查耗费时间，而且容易出错。这个代码能输出正文中可能的文献。
